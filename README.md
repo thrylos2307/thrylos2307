@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">I'm a software developer 🧑‍💻</h3>
-<h3 align="center">I❤️Coding: Because yelling at the computer doesn't count as therapy, Just ask my keyboard</h3>
+<h3 align="center">I❤️Programming: Because yelling at the computer doesn't count as therapy, Just ask my keyboard</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-bharti-9b034a120) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/thrylose) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12710436) 
